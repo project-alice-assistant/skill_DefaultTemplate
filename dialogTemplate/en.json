@@ -1,7 +1,0 @@
-{
-	"skill": "%skillname%",
-	"icon": "time",
-	"description": "%skilldescription%",
-	"slotTypes": [],
-	"intents": []
-}
