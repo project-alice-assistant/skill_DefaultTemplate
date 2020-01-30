@@ -17,6 +17,6 @@ wget http://skills.projectalice.ch/%skillname% -O ~/ProjectAlice/system/skillIns
 - Maintainers: 
 - Alice minimum Version: 1.0.0-a5
 - Conditions:
-    %conditions%
+%conditions%
 - Requirements:
-    %requirements%
+%requirements%
