@@ -4,9 +4,9 @@ from core.base.model.Widget import Widget
 from core.base.model.widgetSizes import WidgetSizes
 
 
-class WhosAboard(Widget):
+class Template(Widget):
 
-	SIZE = WidgetSizes.w_tall
+	SIZE = WidgetSizes.w
 	OPTIONS: dict = dict()
 
 	def __init__(self, data: sqlite3.Row):
