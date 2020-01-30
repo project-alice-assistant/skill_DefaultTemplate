@@ -20,3 +20,5 @@ wget http://skills.projectalice.ch/%skillname% -O ~/ProjectAlice/system/skillIns
 %conditions%
 - Requirements:
 %requirements%
+- Widgets:
+%widgets%
